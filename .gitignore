@@ -1,0 +1,15 @@
+# Local validation tools, scratch files and generated output
+work/
+output/
+TestResults*.xml
+
+# Local credentials, private keys, environment settings and operational logs
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+*.cer
+logs/
+*.log
